@@ -24,4 +24,4 @@ Secured Windows-based messenger with end-to-end encryption.
 ## Contact
 #### Developer
 * e-mail: suryawijaya.sony@gmail.com
-* [LinkedIn](https://www.linkedin.com/in/sonnysurya/)
+* [LinkedIn](https://www.linkedin.com/in/sonywijaya/)
